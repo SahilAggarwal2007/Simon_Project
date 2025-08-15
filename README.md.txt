@@ -4,9 +4,8 @@ This repository contains the code for the Simon AI assistant, a personal assista
 
 ⚠️ **Important:** The AI model (e.g., MPT-7B-Chat, Phi-3-Mini) is **not included** due to license restrictions. You must download it separately from the official source.
 
+## Status
+
+⚠️ **Currently in progress:** Development is paused and the project is not fully functional at the moment.
+
 ## Setup Instructions
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Simon_Project.
