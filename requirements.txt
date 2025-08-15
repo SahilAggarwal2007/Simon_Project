@@ -1,3 +1,4 @@
 Flask
 pyttsx3
 gpt4all
+requests
